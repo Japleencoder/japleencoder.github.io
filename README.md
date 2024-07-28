@@ -16,9 +16,7 @@
 |11/07/24| Dr. HS Rai | A professor at GNDEC, who is also the Controller of Examinations, shared his passion for computer science. He noted that many associate "examination" with fear, tension, and pressure but emphasized that exams are opportunities to advance in life. He also showed pictures of his meeting with Google abroad, highlighting his strong interest in technology.
 | :---: | :---: | :---: |
 |12/07/24| Sandeep Kaur | The lecturer began by having students introduce themselves, then covered the basics of differentiation and integration. She explained differential equations, including concepts like order, degree, solutions, and their types (general, particular, and singular). She also clarified the difference between ordinary (one variable) and partial (multiple variables) differentiation
-| :---: | :---: | :---: |
 | 12/07/24 | Manjot Kaur| The lecturer introduced the students and taught Universal Human Values (UHV), covering:Aspiration: What to aim for.Harmony: Balance between self and body.Value Education: Principles for life.She differentiated between Excitement (momentary, sensory-driven) and Happiness (continuous). She explained Prosperity as having more than just needs, and discussed Natural Acceptance, Self-Exploration, and Deprivation.
-| :---: | :---: | :---: |
 |15/07/24 | Dr. Randhir Singh | He explained the new test criteria for achieving satisfactory scores, which will be added to first-semester exams. He also introduced GitHub as a great resource for learning new skills.
 | :---: | :---: | :---: |
 | 15/07/24 | Dr. Pyare Lal | In the second time slot, Sir, 76 years old, shared his life experiences. He emphasized letting students tackle problems on their own first before offering help. He also shared a story about his daughter, highlighting how he encouraged her to understand her exams independently before seeking assistance.
